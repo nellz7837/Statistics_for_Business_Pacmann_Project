@@ -1,5 +1,4 @@
-# Statistics_for_Business_Pacmann_Project
-Prediksi Pengeluaran Biaya Kesehatan menggunakan Evaluasi Model
+# Prediksi Pengeluaran Biaya Kesehatan menggunakan Evaluasi Model
 
 Berbagai faktor dapat digunakan untuk menentukan nilai premi bagi individu atau kelompok. Faktor-faktor ini dapat mencakup informasi demografis seperti usia, jenis kelamin, dan lokasi, serta faktor pribadi seperti riwayat kesehatan, pilihan gaya hidup, dan pekerjaan. 
 
