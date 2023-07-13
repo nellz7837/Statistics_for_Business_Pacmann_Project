@@ -10,4 +10,5 @@ Semakin tinggi risiko klaim, semakin tinggi pula premi yang akan diterima. Salah
 
 
 # Hasil Analisa
-[Medium](https://medium.com/@nelly.asrizawati/prediksi-pengeluaran-biaya-kesehatan-menggunakan-evaluasi-model-f82b196d59fc)https://medium.com/@nelly.asrizawati/prediksi-pengeluaran-biaya-kesehatan-menggunakan-evaluasi-model-f82b196d59fc 
+[Medium]
+https://medium.com/@nelly.asrizawati/prediksi-pengeluaran-biaya-kesehatan-menggunakan-evaluasi-model-f82b196d59fc)https://medium.com/@nelly.asrizawati/prediksi-pengeluaran-biaya-kesehatan-menggunakan-evaluasi-model-f82b196d59fc 
